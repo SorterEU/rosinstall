@@ -11,6 +11,6 @@
 - git: {local-name: underlay/src/common_controllers, uri: 'https://github.com/SorterEU/common_controllers.git'}
 
 - git: {local-name: underlay/src/SOEM, uri: 'https://github.com/SorterEU/SOEM.git', version: 'sorter'}
-- git: {local-name: underlay/src/sorter, uri: 'https://github.com/SorterEU/apo.git'}
+- git: {local-name: underlay/src/sorter, uri: 'https://github.com/SorterEU/sorter.git'}
 
 - git: {local-name: underlay/src/gui_suros, uri: 'https://github.com/SorterEU/gui_suros.git'}
