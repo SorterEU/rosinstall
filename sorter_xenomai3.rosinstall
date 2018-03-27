@@ -8,7 +8,7 @@
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/typelib, uri: 'https://github.com/orocos-toolchain/typelib.git', version: 'toolchain-2.9'}
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/utilmm, uri: 'https://github.com/orocos-toolchain/utilmm.git', version: 'toolchain-2.9'}
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/utilbr, uri: 'https://github.com/orocos-toolchain/utilbr.git', version: 'toolchain-2.9'}
-- git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/rtt, uri: 'https://github.com/SorterEU/rtt.git', version: 'xenomai3-support'}
+- git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/rtt, uri: 'https://github.com/SorterEU/rtt.git', version: 'xenomai3-support-v2'}
 
 # Normal Workspace
 - git: {local-name: underlay/src/orocos/rtt_ros_integration, uri: 'https://github.com/SorterEU/rtt_ros_integration.git', version: 'xenomai3-support'}
