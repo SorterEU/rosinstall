@@ -6,7 +6,7 @@
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/orogen, uri: 'https://github.com/orocos-toolchain/orogen.git', version: 'toolchain-2.9'}
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/rtt_typelib, uri: 'https://github.com/orocos-toolchain/rtt_typelib.git', version: 'toolchain-2.9'}
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/typelib, uri: 'https://github.com/orocos-toolchain/typelib.git', version: 'toolchain-2.9'}
-- git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/utilmm, uri: 'https://github.com/orocos-toolchain/utilmm.git', version: 'toolchain-2.9'}
+- git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/utilmm, uri: 'https://github.com/orocos-toolchain/utilmm.git', version: 'toolchain-2.8'}
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/utilrb, uri: 'https://github.com/orocos-toolchain/utilrb.git', version: 'toolchain-2.9'}
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/rtt, uri: 'https://github.com/SorterEU/rtt.git', version: 'xenomai3-support-v2'}
 
