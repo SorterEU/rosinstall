@@ -6,7 +6,7 @@
 - git: {local-name: underlay_es/src/conman, uri: 'https://github.com/SorterEU/conman.git'}
 
 - git: {local-name: underlay_es/src/cartesian_trajectory_msgs, uri: 'https://github.com/SorterEU/cartesian_trajectory_msgs.git', version: 'master'}
-- git: {local-name: underlay_es/src/orocos_controllers, uri: 'https://github.com/SorterEU/orocos_controllers.git'}
+- git: {local-name: underlay_es/src/orocos_controllers, uri: 'https://github.com/SorterEU/orocos_controllers.git', version: 'agv'}
 - git: {local-name: underlay_es/src/orocos_tools, uri: 'https://github.com/SorterEU/orocos_tools.git'}
 
 - git: {local-name: underlay_es/src/sorter, uri: 'https://github.com/SorterEU/sorter.git'}
