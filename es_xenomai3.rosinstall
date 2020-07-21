@@ -1,4 +1,4 @@
-# Isolated Workspace
+# Isolated Workspace Python3
 - git: {local-name: underlay_isolated/src/orocos/rtt_geometry, uri: 'https://github.com/orocos/rtt_geometry.git'}
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/log4cpp, uri: 'https://github.com/orocos-toolchain/log4cpp.git', version: 'toolchain-2.9'}
 - git: {local-name: underlay_isolated/src/orocos/orocos_toolchain/ocl, uri: 'https://github.com/orocos-toolchain/ocl.git', version: 'toolchain-2.9'}
@@ -18,7 +18,6 @@
 - git: {local-name: underlay/src/orocos_controllers, uri: 'https://github.com/SorterEU/orocos_controllers.git'}
 - git: {local-name: underlay/src/orocos_tools, uri: 'https://github.com/SorterEU/orocos_tools.git'}
 
-- git: {local-name: underlay/src/SOEM, uri: 'https://github.com/pstraczynski/SOEM.git', version: 'xenomai3'} #test
-- git: {local-name: underlay/src/sorter, uri: 'https://github.com/pstraczynski/sorter.git'} #test
+- git: {local-name: underlay/src/master_es, uri: 'https://github.com/SorterEU/master_es.git'} #test
 
-- git: {local-name: underlay/src/gui_suros, uri: 'https://github.com/SorterEU/gui_suros.git'}
+- git: {local-name: underlay/src/gui_suros, uri: 'https://github.com/SorterEU/gui_agv.git'}
