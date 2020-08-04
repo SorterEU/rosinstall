@@ -18,6 +18,6 @@
 - git: {local-name: underlay/src/orocos_controllers, uri: 'https://github.com/SorterEU/orocos_controllers.git'}
 - git: {local-name: underlay/src/orocos_tools, uri: 'https://github.com/SorterEU/orocos_tools.git'}
 
-- git: {local-name: underlay/src/master_es, uri: 'https://github.com/SorterEU/master_es.git'} #test
+- git: {local-name: underlay/src/master_es, uri: 'https://github.com/SorterEU/master_es.git'}
 
-- git: {local-name: underlay/src/gui_suros, uri: 'https://github.com/SorterEU/gui_agv.git'}
+- git: {local-name: underlay/src/gui_suros, uri: 'https://github.com/SorterEU/gui_suros.git'}
