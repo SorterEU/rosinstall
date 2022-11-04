@@ -8,6 +8,7 @@ Skrypty installacyjne do oprogramowania EasyRobots
 
 2. Oprogramowanie EasyRobots
 	* es_gnulinux.rosinstall - oprogramowanie EasyRobots bez hardware'u - wymaga pythona3, nie wymaga xenomai
+	* es_gnulinux_ubuntu_20_04.rosinstall oprogramowanie EasyRobots bez hardware'u, ubuntu 20.04, nie wymaga xanomai
 	* es_panel.rosinstall - oprogramowanie EasyRobots na panel - wymaga python3
 	* es_xenomai2.rosinstall - oprogramowanie EasyRobots ze hardware'em - wymaga xenomai2 i python3
 	* es_xenomai3.rosinstall - oprogramowanie EasyRobots ze hardware'em - wymaga xenomai2 i python3
